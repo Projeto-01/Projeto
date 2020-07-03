@@ -10,9 +10,9 @@ if data == 1:
     dia = "Terça\n"
 if data == 2:
     dia = "Quarta\n"
-if data == 4:
-    dia = "Quinta\n"
 if data == 3:
+    dia = "Quinta\n"
+if data == 4:
     dia = "Sexta\n"
 if data == 5:
     dia = "Sabado\n"
